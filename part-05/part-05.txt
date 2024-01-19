@@ -1,0 +1,6 @@
+# INTERVIEW QUESTIONS 
+
+    i. What is package.json ?
+    ii. Difference between dependency and devdependency ?
+
+
