@@ -1,0 +1,4 @@
+# INTERVIEW QUESTIONS =>
+
+    i. Two ways of navigating between routes
+    ii. Difference between Link and navigation
