@@ -1,0 +1,8 @@
+# INTERVIEW QUESTIONS =>
+
+    i. Is react code working with next.js ?
+    ii. What is component ?
+    iii. How to pass data in component ?
+    iv. Difference between javascript and typescript ?
+    v. Server side scripting vs Client side scipting ?
+    vi. NPM vs NPX ?

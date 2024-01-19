@@ -26,5 +26,3 @@
     ii. JAVASCRIPT
     iii. ES6
     iv. REACT.JS
-
-
