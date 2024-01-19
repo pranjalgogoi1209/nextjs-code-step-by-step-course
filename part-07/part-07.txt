@@ -1,0 +1,5 @@
+# INTERVIEW QUESTIONS 
+
+    i. What is the pattern for creating page in next.js ?
+    ii. Do we need to install any package for routing in next.js ?
+    iii. Do next.js uses a file-system based router ?
