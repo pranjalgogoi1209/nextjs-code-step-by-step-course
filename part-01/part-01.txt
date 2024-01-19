@@ -1,0 +1,30 @@
+# WHAT IS NEXT.JS =>
+
+    i. The React Framework for the Web Apps.
+    ii. It is based on react js library.
+    iii. But many extra features were added in the Next js over React js.
+    iv. Like Routing, middleware etc.
+    v. Next js is used for make Single-page Application.
+
+
+# WHY NEXT.JS =>
+
+    i. Make Big projects easily and quickly.
+    ii. Inbuild features like:
+        * SSR (Server side rendering)
+        * SSR help in SEO
+    iii. Many features are added by nextjs over reactjs.
+        * Routing
+        * CSS support
+        * Middleware etc
+    iv. Built-in optimizations features.
+
+
+# PREREQUISITE FOR NEXT.JS =>
+
+    i. HTML
+    ii. JAVASCRIPT
+    iii. ES6
+    iv. REACT.JS
+
+
