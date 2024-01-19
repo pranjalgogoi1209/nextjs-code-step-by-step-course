@@ -1,0 +1,7 @@
+# INTERVIEW QUESTIONS => 
+
+    i. What is "use client" in the next js ?
+    ii. How to call the function in next.js ?
+    iii. Make a component inside a component ?
+    iv. Call component as a function ?
+    v. What is a state in react ?
