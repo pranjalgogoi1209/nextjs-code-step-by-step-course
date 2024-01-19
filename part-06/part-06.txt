@@ -1,0 +1,5 @@
+# INTERVIEW QUESTIONS
+
+    i. Component type based on redering ?
+    ii. Client component vs server component ?
+    iii. Can use both type of component together ?
