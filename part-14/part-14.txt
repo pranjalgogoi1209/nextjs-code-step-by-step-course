@@ -1,0 +1,5 @@
+# INTERVIEW QUESTIONS =>
+
+    i. Make 404 pagea segment?
+    ii. How to make 404 page ?
+    iii. What is 404 page ?

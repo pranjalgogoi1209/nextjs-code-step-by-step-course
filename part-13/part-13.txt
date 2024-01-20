@@ -1,0 +1,4 @@
+# INTERVIEW QUESTIONS =>
+
+    i. Get route name from url ?
+    ii. How to get all segments of route ?
