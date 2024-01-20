@@ -1,0 +1,4 @@
+# INTERVIEW QUESTIONS =>
+
+    i. What is a dynamic route ?
+    ii. How to get a dynamic route name ?
