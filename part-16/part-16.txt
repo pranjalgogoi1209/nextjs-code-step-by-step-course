@@ -1,0 +1,9 @@
+# TOPICS =>
+
+    i. Client side environment.
+    ii. Server side environment.
+    iii. Prerendering.
+        a. Static generation: 
+            With static rendering, both server and client components can be prerendered on the server at build time. The HTML is generated at build-time and is reused for each request.
+        b. Server side rendering: 
+            It is the pre rendering method that generates the HTML on each request.
