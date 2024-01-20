@@ -1,0 +1,5 @@
+# INTERVIEW QUESTIONS:
+
+    i. What is middleware in next.js ?
+    ii. Where we can use middleware ?
+    iii. How to apply middleware in specific route ?
