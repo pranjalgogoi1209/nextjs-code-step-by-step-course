@@ -1,0 +1,6 @@
+# INTERVIEW QUESTIONS =>
+
+    i. How common layout works in Next.js ?
+    ii. Why Link's first letter capital ?
+    
+     
