@@ -1,0 +1,4 @@
+# INTERVIEW QUESTIONS
+
+    i. How to write conditions in jsx ?
+    ii. How to add conditional layout ?
