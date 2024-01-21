@@ -1,0 +1,11 @@
+# FONT OPTIMIZATION =>
+
+    i. Why use next.js font ?
+    ii. How to use a normal font ?
+    iii. How to use next.js font ?
+
+
+# INTERVIEW QUESTIONS =>
+
+    i. Why use next.js font ?
+    

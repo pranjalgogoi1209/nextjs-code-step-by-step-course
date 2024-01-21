@@ -1,0 +1,15 @@
+# IMAGE OPTIMIZATION =>
+
+    i. Why use image component of next.js.
+    ii. Import and use image.
+    iii. Use html img tag.
+    iv. Config for image from other domain.
+    v. Important props in Next image.
+
+
+# INTERVIEW QUESTIONS =>
+
+    i. How to optimize image in next.js ?
+    ii. Difference between next.js image and html img ?
+    iii. How to use public folder images ?
+    iv. Config for exteranl image URL ?
