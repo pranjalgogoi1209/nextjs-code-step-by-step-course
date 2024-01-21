@@ -1,0 +1,12 @@
+# CLIENT COMPONENT WITH SERVER COMPONENT =>
+
+    i. why do we need a client component inside server component ?
+    ii. Make component.
+    iii. Pass data in component.
+    iv. Add events
+
+
+# INTERVIEW QUESTIONS =>
+
+    i. How to perform events with server component ?
+    ii. Pass data between component ?
