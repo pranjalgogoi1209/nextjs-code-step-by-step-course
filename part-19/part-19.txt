@@ -1,0 +1,12 @@
+# FETCH DATA IN SERVER COMPONENT => 
+
+    i. Create server components for products.
+    ii. Make a function for cll API.
+    iii. Call API.
+    iv. Render DATA.
+
+
+# INTERVIEW QUESTIONS =>
+
+    i. What is the server component in next.js ?
+    ii. How do call API in server component ?
