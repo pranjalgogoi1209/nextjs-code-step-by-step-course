@@ -1,0 +1,11 @@
+# CSS WITH NEXT.JS =>
+
+    i. Global CSS.
+    ii. Inline CSS.
+    iii. Update style with a button.
+    
+
+# INTERVIEW QUESTIONS => 
+
+    i. Can we write style tag in next.js ?
+    ii. CAn we update style with useState ?
