@@ -1,0 +1,25 @@
+# HOW TO CHECK WHICH PAGE IS PRE RENDERED AND WHICH PAGE IS CLIENT RENDERED =>
+
+    i. Go to inspect
+    ii. Go to network
+    iii. Below click on file
+    iv. Go to preview, If preview is there then it is server side and if not there then it is client side.
+    v. Go to response, if html tags are there then it is server side and if not there then it is client side.
+
+
+# PRE RENDERING HELPS PAGES TO BECOME FAST AND SEO FRIENDLY
+
+# HOW SEO WORKS =>
+
+    i. Seo helps show websites in search engine.
+    ii. Google bot identify what is written in the page with the help of network request url.
+    iii. It check network request and do crawling, get information from url.
+    iv. indexing in search engine.
+
+# INTERVIEW QUESTIONS => 
+
+    i. How to know rendering type ?
+    ii. Check result of rendering ?
+    iii. Why this is important ?
+    iv. SEO with rendering ?
+    v. How is SEO works ?
