@@ -1,0 +1,14 @@
+# FETCH DATA IN CLIENT COMPONENT =>
+
+    i. Create product components.
+    ii. Make it client component.
+    iii. Add hooks.
+    iv. Call API.
+    v. Render Data.
+
+
+# INTERVIEW QUESTIONS => 
+
+    i. What is client component in Next.js ?
+    ii. How to make client components ?
+    iii. Fetch data in client component ?
