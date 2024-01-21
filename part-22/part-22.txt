@@ -1,0 +1,13 @@
+# CSS MODULES WITH NEXT.js
+
+    i. How this id different from normal CSS.
+    ii. Make a modular css file.
+    iii. Apply CSS module.
+    iv. Multiple CSS module.
+
+
+# INTERVIEW QUESTIONS => 
+
+    i. What is css module ?
+    ii. How module css is different from normal css ?
+    iii. How to use module css ?
