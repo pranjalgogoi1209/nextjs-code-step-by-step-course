@@ -1,0 +1,14 @@
+# CONDITION WITH STYLE =>
+
+    i. Condition with class.
+    ii. Condition with style attribute.
+    iii. CSS modules with ID attribute.
+    iv. Extract class from css module object.
+
+
+# INTERVIEW QUESTIONS =>
+
+    i. How to apply CSS with condition ?
+    ii. Extract class from CSS module ?
+    iii. How to apply condition with HTML tags ?
+    
