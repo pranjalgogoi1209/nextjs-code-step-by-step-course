@@ -1,0 +1,12 @@
+# GENERATE META DATA FOR DYNAMIC META =>
+
+    i. What is dynamic meta data ?
+    ii. What is the use of generateMetaData ?
+    iii. How to use generateMetaData ?
+    iv. Wrong way to use meta data.
+    v. Use generateMetaData with multiple route.
+
+
+# INTERVIEW QUESTIONS => 
+
+    i. How to use dynamic title tag in next.js ?
