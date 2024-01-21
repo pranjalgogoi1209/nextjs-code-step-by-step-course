@@ -1,0 +1,10 @@
+# SCRIPT COMPONENT IN NEXT.js
+
+    i. What is script component ?
+    ii. How to use it ?
+    iii. Example for script tag.
+    
+
+# DIFFERENCE =>
+
+    Normal script tag load file for all the componets, but next.js's script component load the file for specific component.
