@@ -1,0 +1,15 @@
+# STATIC SITE GENERATION (SSG) =>
+
+    i. What is SSG ?
+    ii. Make a service file and call API.
+    iii. Display data from API.
+    iv. Make dynamic routing.
+    v. Make build with SSG.
+    vi. Mainly use in dynamic routing.
+
+# INTERVIEW QUESTIONS =>
+
+    i. What is SSG ?
+    ii. How to call API ?
+    iii. How to make SSG build ?
+    iv. Use of generateStaticParams
