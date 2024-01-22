@@ -1,0 +1,9 @@
+# STATIC ASSETS IN THE NEXT.js =>
+
+    i. What are static assets ?
+    ii. How to use them in the next.js code ?
+        * Use of images
+        * Use of CSS
+        * Use js
+    iii. In public folder we need to store those assets which are common assets. Like robot.txt, sitemap.xml.
+    iv. It helps in SEO
