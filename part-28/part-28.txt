@@ -1,0 +1,13 @@
+# LOADER IN NEXT.JS =>
+
+    i. Why do we need a loader in next.js ?
+    ii. Call API ?
+    iii. Render data of API on screen ?
+    iv. Make loading screen.
+    v. Check loader.
+
+
+# INTERVIEW QUESTIONS =>
+
+    i. How to make a loader in next.js ?
+    ii. How to add loading screen in next.js ?
