@@ -1,0 +1,12 @@
+# REDIRECTION IN NEXT.js =>
+
+    i. What is Redirection ?
+    ii. Redirect from component.
+    iii. Redirect from config file.
+    iv. Dynamic URL redirect.
+
+
+# INTERVIEW QUESTIONS =>
+
+    i. How many ways we have to redirect ?
+    ii. How to redirect dynamic redirection with config file ?
