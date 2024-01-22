@@ -1,0 +1,16 @@
+# HOW TO MAKE PRODUCTION BUILD =>
+
+    i. What is build ?
+    ii. Type of buld ?
+    iii. What is production build ?
+    iv. How to make production buld ?
+    v. Run production build.
+
+    our code first execute and generate to build file. browser understand build.
+
+    production build
+    development build
+    customize build 
+
+
+    our code minified in production build for fast execute. we don't debug in production build.
