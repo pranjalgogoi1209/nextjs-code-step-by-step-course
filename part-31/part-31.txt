@@ -1,0 +1,8 @@
+# EXPORT STATIC HTML PAGE WITH BUILD =>
+
+    i. What is static html means ?
+        => for every dynamic page there will be a static html page by changing the config with output: export
+    ii. Make some pages.
+    iii. Add configuration.
+    iv. Run build command.
+    v. Check html and try to run it.
