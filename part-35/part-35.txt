@@ -1,0 +1,11 @@
+# API ROUTES
+
+    i. Use of API routes.
+    ii. Make API route.
+    iii. Test it with postman
+
+
+# INTERVIEW QUESTIONS =>
+
+    i. How to make API Route with Next.js ?
+    ii. Use of API Route in Next.js. 

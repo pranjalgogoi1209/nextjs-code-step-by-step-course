@@ -1,0 +1,17 @@
+# ENVIRONMENT VARIABLES =>
+
+    i. What are environment variables ?
+        => Only visible in server side component.
+        => Default ev.
+        => User defined ev.
+    ii. How to access evnironment variables ?
+    iii. Use environment variables ?
+
+
+# INTERVIEW QUESTIONS =>
+
+    i. How to use different configurations in different build ?
+    ii. What are environment variables ?
+
+
+# Environment variables are very sensible and very secret data, we don't want to give anyone, while share our codes with anyone. We get default environment variables and also we can create ev for storing ulr and all.
