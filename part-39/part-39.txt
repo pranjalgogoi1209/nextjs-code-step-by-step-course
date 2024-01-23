@@ -1,0 +1,9 @@
+# INTEGRATE POST API =>
+
+    i. Make new page route.
+    ii. Make a form and add input fields.
+    iii. Define state for input fields.
+    iv. Write code for call API.
+    v. Handle API response.
+    vi. Test post API with UI.
+    vii. Add style
