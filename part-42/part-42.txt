@@ -1,0 +1,6 @@
+# MAKE DELETE API
+
+    i. Make API Route function.
+    ii. Get id from URL.
+    iii. Write code for delete API.
+    iv. Test api with postman.

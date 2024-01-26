@@ -1,0 +1,9 @@
+# INTEGRATE DELETE API =>
+
+    i. Make a component for delete user.
+    ii. Why need delete component.
+    iii. Call delete api method.
+    iv. Test api with ui.
+
+
+    If we are create a delete button on server component, then it will not work bcz we need to use event and event don't work on server component. So we can create a different component and import that on that file. 

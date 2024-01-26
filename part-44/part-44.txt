@@ -1,0 +1,6 @@
+# CATCH ALL API ROUTES
+
+    i. What does mean by catch-all routes ?
+    ii. Make route.
+    iii. Write code for catch-all route api.
+    iv. Test api.

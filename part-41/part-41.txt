@@ -1,0 +1,11 @@
+# INTEGRATE PUT API =>
+
+    i. Make new route for put api.
+    ii. Make link from user list page.
+    iii. Create form and define the state.
+    iv. Get current user details.
+    v. Update details and call api.
+
+# RUN JSON SERVER =>
+
+    npx json-server --watch data/db.json --port 8000

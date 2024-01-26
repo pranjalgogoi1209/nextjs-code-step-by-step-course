@@ -1,0 +1,6 @@
+# PUT API WITH STATIC DATA =>
+
+    i. Use of put method API.
+    ii. Write put method in route api file.
+    iii. Get url params and payload.
+    iv. Test put api with postman.
