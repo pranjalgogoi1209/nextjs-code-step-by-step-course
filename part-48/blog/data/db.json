@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "5607",
+      "name": "RICE",
+      "price": "60"
+    },
+    {
+      "id": "c0cc",
+      "name": "DAAL",
+      "price": "30"
+    },
+    {
+      "id": "a3c5",
+      "name": "CHINI",
+      "price": "20"
+    }
+  ]
+}

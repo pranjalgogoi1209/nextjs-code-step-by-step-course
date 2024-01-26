@@ -1,0 +1,6 @@
+# HOW TO USE MONGO DB ATLAS
+
+    i. Make an account mongodb atlas.
+    ii. Make project and cluster.
+    iii. Make a database and collection.
+    iv. Add data in collection.
