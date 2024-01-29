@@ -1,0 +1,5 @@
+# UPDATE PRODUCT WITH PUT API =>
+
+    i. Make a function for calling API.
+    ii. Write code for the PUT api method.
+    iii. Test API and updated record.

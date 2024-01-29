@@ -1,0 +1,6 @@
+# UPLOAD IMAGE WITHOUT LIBRARY =>
+
+    i. Make a simple HTML form.
+    ii. Get image in the state.
+    iii. Make API for uploading images.
+    iv. Upload the image and check image in folder.

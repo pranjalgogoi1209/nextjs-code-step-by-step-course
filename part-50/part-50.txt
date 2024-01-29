@@ -1,0 +1,5 @@
+# PUT API (UPDATE) mongoDB
+
+    i. Make a new API route for PUT method.
+    ii. Write code for updating the product.
+    iii. Test API with postman.

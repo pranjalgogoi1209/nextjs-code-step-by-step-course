@@ -1,0 +1,7 @@
+# DELETE API WITH MONGO DB
+
+    i. Make api in delete product.
+    ii. Test api with postman.
+    iii. Integrate DELETE api with UI.
+    iv. Add no cache in GET api.
+    V. Test data with mongo db.

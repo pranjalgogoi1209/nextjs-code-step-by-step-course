@@ -1,0 +1,8 @@
+# POPULATE FORM DATA WITH API
+
+    i. Make API to get a single record.
+    ii. Make route for editing the product.
+    iii. Add input fields for edit product.
+    iv. Declare state for adding values in input fields.
+    v. Call API and display data.
+    vi. Test API with postman.
